@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate Frontend Developer from Poland!</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on a **Portfolio Website**
 
 - 🌱 I’m currently learning **TypeScript**
 

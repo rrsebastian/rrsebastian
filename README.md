@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on a **Portfolio Website**
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 📫 How to reach me **sebastiantorkowski@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

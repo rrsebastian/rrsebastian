@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Sebastian</h1>
 <h3>A passionate Frontend Developer from Poland!</h3>
 
-- 🔭 I’m currently working on a Portfolio Website
-
 - 📫 How to reach me - **sebastiantorkowski@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

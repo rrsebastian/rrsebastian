@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sebastian</h1>
 <h3>A passionate Frontend Developer from Poland!</h3>
 
-- 👨‍💻 Portfolio website https://sebastiantportfolio.netlify.app/
+- 👨‍💻 Portfolio website - https://sebastiantportfolio.netlify.app/
 
 - 📫 How to reach me - **sebastiantorkowski@gmail.com**
 

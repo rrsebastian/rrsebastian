@@ -3,6 +3,8 @@
 
 - 👨‍💻 Portfolio website - **https://sebastiantportfolio.netlify.app/**
 
+-  📄 My CV - **[CV.pdf](https://github.com/rrsebastian/rrsebastian/files/13947878/CV.pdf)**
+
 - 📫 How to reach me - **sebastiantorkowski@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

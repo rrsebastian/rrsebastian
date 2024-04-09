@@ -7,6 +7,6 @@
 
 <h2>Skills</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,git,tailwind)](https://skillicons.dev)
 
 
